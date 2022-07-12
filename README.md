@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PrajwalVK7
-- 👀 I’m interested in ...c,c++,python, flutter
+- 👀 I’m interested in ...html,css,c,dart,ui-ux
 - 🌱 I’m currently learning ... flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...

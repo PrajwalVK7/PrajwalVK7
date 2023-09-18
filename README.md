@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @PrajwalVK7
-- 👀 I’m interested in ... html, css,c, ui, bootstrap , React js
+- 👋 Hi, I’m Prajwal VK
+- 👀 I’m interested in ... Web Development, Front End Development
 - 🌱 I’m currently learning ... React js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...

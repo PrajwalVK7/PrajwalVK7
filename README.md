@@ -7,6 +7,11 @@
 - 🌱 I’m currently learning **M E A R N**
 - 💬 Ask me about **React**
 - 📫 How to reach me **prajwalvk98@gmail.com**
+- Resume : <a href="https://drive.google.com/file/d/1PwlNj9ejIOBG9fDQMo-5odNRlaDrmerz/view?usp=drivesdk" >Resume</a>
+
+
+
+
 - 👨‍💻 All of my projects are available at **https://prjwlvk.netlify.app/**
 
 <div> <a href="https://www.linkedin.com/in/prajwalvk023" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
